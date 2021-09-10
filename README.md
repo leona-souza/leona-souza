@@ -1,6 +1,13 @@
 ![gbheader](https://user-images.githubusercontent.com/55172899/132782878-3bdeb85a-2bc5-4f43-b9f1-1184d9db356e.png)
 
-### Teste
+### Resumo
+
+```
+{ teste }
+```
+
+### Redes Sociais
+redes
 
 <!--
 **leona-souza/leona-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
