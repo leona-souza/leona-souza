@@ -1,25 +1,17 @@
-![gbheader](https://user-images.githubusercontent.com/55172899/132782878-3bdeb85a-2bc5-4f43-b9f1-1184d9db356e.png)
-
-### Resumo
+![gbheader](https://user-images.githubusercontent.com/55172899/132783568-41bf6ac6-a952-46a1-9b29-a237c404a6dd.png)
 
 ```
-{ teste }
+let LeonaSouza = {
+  position: 'Software Engineer',
+  company: 'Gamers Club',
+  mainSkills: ['HTML', 'CSS', 'JavaScript', 'React', 'Git'],
+  otherSkills: ['SQL', 'MongoDB', 'Node.js', 'Java', 'Spring'],
+  softSkills: ['Ethics', 'Teamwork', 'Empathy', 'Problem Solver'],
+  social: {
+    twitter: 'LeonaDev', twitch: 'LeonaDev', github: 'leona-souza' 
+   }
+}
 ```
 
 ### Redes Sociais
 redes
-
-<!--
-**leona-souza/leona-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
